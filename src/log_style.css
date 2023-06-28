@@ -1,0 +1,26 @@
+.Submit
+{
+    height: 2rem;
+    width: 14.5rem;
+    padding: 5px 10px;
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
+    background-color: black;
+    color: white;
+    outline: none;
+    
+}
+
+.Logout
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: bisque;
+    height: 100vh;
+}
+
+span{
+    color: teal;
+}
